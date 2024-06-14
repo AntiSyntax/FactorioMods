@@ -1,0 +1,11 @@
+Assemblers: 
+	Superconductive Assembler
+	Photonic Assembler
+	Atomic Assembler
+
+
+
+Technology:
+	Photolithography
+        Pre-req: 'laser'
+        Unlocks Photonic Assembler

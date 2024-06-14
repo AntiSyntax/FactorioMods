@@ -1,0 +1,9 @@
+{
+    "name": "super-assembler",
+    "version": "0.1.0",
+    "title": "Super Assembler",
+    "author": "AntiSyntax",
+    "description": "The Super Assembler mod creates four different types of assemblers based off of the MK-II (10x, 25x, 50x, 100x). The resource requirements, crafting speeds, and power usage all scale linearly.",
+    "factorio_version": "1.1"
+}
+  
